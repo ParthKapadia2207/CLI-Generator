@@ -112,12 +112,7 @@ ${licenseLink}
 ## Tests
 
 ${data.tests}
-
-
-## Questions 
-
-${data.name}: https://github.com/${data.github}. Please feel free to reach out to me with any questions at ${data.email}.
-`;
+`
 }
 
 module.exports = generateMarkdown;
